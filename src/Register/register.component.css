@@ -1,0 +1,12 @@
+.form-control{
+    border-bottom: 1px solid black;
+    
+}
+/* .form-control:focus label{
+    color: red;
+} */
+
+.registerForm{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}

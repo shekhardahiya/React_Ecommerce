@@ -1,0 +1,51 @@
+.cardSize{
+    height: 400px;
+    width: 210px ;
+    margin-bottom: 20px;
+}
+.des{
+    
+    overflow: hidden;
+}
+.highlightedButton{
+    border: none;
+    color: brown;
+    background: antiquewhite;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin-bottom: 8px;
+    padding: 5px;
+}
+.normalButton{
+    border: none;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin-bottom: 8px;
+    padding: 5px;
+}
+.categorySection{
+    background: #efefef;
+}
+
+.image{
+    height: 100px;
+    width: 100px;
+}
+
+.itemName{
+    height: 50px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.description{
+    height: 80px;
+    overflow: hidden;
+    margin-top: 50px;
+}
+.mrp{
+    padding-left: 20px;
+    padding-right: 0;
+    color: blueviolet;
+    text-decoration: underline;
+}
+.price{
+    margin-top: 20px;
+}

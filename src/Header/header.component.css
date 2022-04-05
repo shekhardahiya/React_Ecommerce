@@ -1,0 +1,33 @@
+.shadow{
+    /* box-shadow: 0 0 0 0 rgba(0,0,0,0.2); */
+    margin-top: 0px;
+    margin-bottom: 10px;
+    padding-bottom: 0px;
+}
+.right{
+    position: absolute;
+    right: 70px;
+
+}
+.top{
+    margin-top: -10px;
+    margin-bottom: -10px;
+}
+.ccc{
+    top: 20px;
+    left: 280px;
+    
+}
+.modal-header{
+    background: black;
+}
+.modal-title{
+    color: white;
+}
+.btn-close{
+    background-color: aliceblue;
+}
+.cartIcon{
+    color: red;
+    border: none;
+}
